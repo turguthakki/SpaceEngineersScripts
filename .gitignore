@@ -1,0 +1,11 @@
+.vscode
+.vscode/*
+bin
+bin/*
+obj
+obj/*
+*.pdb
+*.exe
+local.props
+build/
+build/*
